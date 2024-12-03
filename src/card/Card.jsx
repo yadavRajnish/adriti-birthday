@@ -5,7 +5,7 @@ const Card = () => {
   return (
     <div className="birthdayCard">
       <div className="cardFront">
-        <h3 className="happy">🎉 HAPPY BIRTHDAY, Adriti </h3>
+        <h3 className="happy">🎉 HAPPY BIRTHDAY, Adriti</h3>
         <div className="girl">
           <img src={adriti} alt="" />
         </div>
