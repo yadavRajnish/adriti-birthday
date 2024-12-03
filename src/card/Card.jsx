@@ -1,4 +1,5 @@
 import React from "react";
+import adriti from "../assest/aditi.png"
 
 const Card = () => {
   return (
@@ -6,7 +7,7 @@ const Card = () => {
       <div className="cardFront">
         <h3 className="happy">🎉 HAPPY BIRTHDAY, Adriti </h3>
         <div className="girl">
-          <img src="https://i.ibb.co/N6rnXYG/aditi.png" alt="" />
+          <img src={adriti} alt="" />
         </div>
         <div className="balloons">
           <div className="balloonOne" />

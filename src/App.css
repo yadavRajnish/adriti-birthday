@@ -148,7 +148,7 @@ body {
 
 .cardInside {
   position: absolute;
-  background: url("https://i.ibb.co/CWWxXG4/tgrg-qj10-220316.jpg");
+  background: url("./assest/5.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -193,7 +193,6 @@ p {
   outline-color: #333;
   outline-style: dotted;
 }
-
 
 .message {
   color: #555;
